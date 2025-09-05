@@ -1,6 +1,6 @@
-# 📊 Stock Market Analysis Project (Python – Jupyter Notebook)
+#  Stock Market Analysis Project (Python – Jupyter Notebook)
 
-## 📌 Overview
+##  Overview
 This project performs **stock market analysis** on four major companies:  
 - **Apple (AAPL)**  
 - **Microsoft (MSFT)**  
@@ -11,14 +11,14 @@ The analysis uses **Python (Jupyter Notebook)** and covers stock price trends, m
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 - Daily stock data (Open, High, Low, Close, Adj Close, Volume)  
 - Tickers: AAPL, MSFT, NFLX, GOOG  
 - Time period: ~3 months  
 
 ---
 
-## 🛠️ Libraries Used
+##  Libraries Used
 - **pandas** – data manipulation  
 - **numpy** – numerical operations  
 - **matplotlib & seaborn** – visualizations  
@@ -26,9 +26,9 @@ The analysis uses **Python (Jupyter Notebook)** and covers stock price trends, m
 
 ---
 
-## 📑 Project Workflow
+##  Project Workflow
 
-### 1️⃣ Load Dataset
+### 1 Load Dataset
 - Imported stock data from CSV  
 - Converted `Date` column to datetime  
 - Sorted data by `Ticker` and `Date`  
